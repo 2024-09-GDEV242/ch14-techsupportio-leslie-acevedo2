@@ -34,7 +34,6 @@ public class SupportSystem
      */
     public void start()
     {
-        System.out.println(responder.defaultResponses);
         boolean finished = false;
 
         printWelcome();
